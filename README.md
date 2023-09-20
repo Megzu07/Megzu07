@@ -1,6 +1,6 @@
 📊 Data Analyst | Python Enthusiast | SQL Geek 📈
 
-👋 Hello there! I'm [Your Name], a passionate data analyst with a knack for transforming raw data into actionable insights. My journey in the world of data has been an exciting one, and I'm here to share my findings and code with the community.
+👋 Hello there! I'm Meghana, a passionate data analyst with a knack for transforming raw data into actionable insights. My journey in the world of data has been an exciting one, and I'm here to share my findings and code with the community.
 
 🔬 What I Do:
 - Analyze data to uncover hidden trends and patterns.
