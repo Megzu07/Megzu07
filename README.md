@@ -19,7 +19,7 @@
 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MeghaNa./)
-📧 Email: [![Gmail](https://img.shields.io/badge/Gmail-Click%20to%20Email-red?style=for-the-badge&logo=gmail)](mailto:megzu07@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-Click%20to%20Email-red?style=for-the-badge&logo=gmail)](mailto:megzu07@gmail.com)
 
 🤝 Let's Collaborate:
 I'm always open to collaboration and networking opportunities. Feel free to reach out if you want to work on a project together or discuss all things data!
