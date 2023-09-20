@@ -18,7 +18,7 @@
 
 🌐 Connect with Me:
 - LinkedIn: www.linkedin.com/in/megha-na-0307
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Megha Na./)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MeghaNa./)
 
 🤝 Let's Collaborate:
 I'm always open to collaboration and networking opportunities. Feel free to reach out if you want to work on a project together or discuss all things data!
