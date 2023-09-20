@@ -1,4 +1,4 @@
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 
 
 👋 Hello there! I'm Meghana, a passionate data analyst with a knack for transforming raw data into actionable insights. My journey in the world of data has been an exciting one, and I'm here to share my findings and code with the community.
