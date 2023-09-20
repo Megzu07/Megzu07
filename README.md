@@ -17,13 +17,7 @@
 - Tableau 📈
 
 🌐 Connect with Me:
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Profile]
-- Blog: [Link to Your Blog, if applicable]
-
-📚 Check Out My Projects:
-[Link to GitHub Repository 1]
-[Link to GitHub Repository 2]
+- LinkedIn: www.linkedin.com/in/megha-na-0307
 
 🤝 Let's Collaborate:
 I'm always open to collaboration and networking opportunities. Feel free to reach out if you want to work on a project together or discuss all things data!
